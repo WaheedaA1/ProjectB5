@@ -1,0 +1,10 @@
+package One;
+
+public class DemoOne {
+	
+	public static void main (String[]args) {
+		System.out.println("ProjectB5 first code...");
+		
+	}
+
+}
