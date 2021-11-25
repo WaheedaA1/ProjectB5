@@ -6,5 +6,9 @@ public class DemoOne {
 		System.out.println("ProjectB5 first code...");
 		
 	}
+	public static void addedNum( int a, int b) {
+		System.out.println(" a+b");
+
+	}
 
 }
