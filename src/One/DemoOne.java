@@ -8,7 +8,9 @@ public class DemoOne {
 	}
 	public static void addedNum( int a, int b) {
 		System.out.println(" a+b");
+		System.out.println(" it will be shown in github");
 
 	}
+	
 
 }
